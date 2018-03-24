@@ -11,7 +11,9 @@ package tugas1pbo;
  */
 public class BajuKantor {
     public static void main(String[] args) {
+        Baju Kantor = new Baju();
         
+      
     }
     
 }
