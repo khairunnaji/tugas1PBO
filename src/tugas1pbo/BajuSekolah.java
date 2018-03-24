@@ -12,5 +12,11 @@ package tugas1pbo;
 public class BajuSekolah {
     public static void main(String[] args) {
         Baju Sekolah = new Baju();
+        
+        Sekolah.kain="Katun";
+        Sekolah.Warna="Putih";
+        Sekolah.Kancing="Bundar putih";
+        Sekolah.motiv="Polos";
+        Sekolah.ukuran="L";
     }
 }
