@@ -10,5 +10,7 @@ package tugas1pbo;
  * @author puden
  */
 public class BajuSekolah {
-    
+    public static void main(String[] args) {
+        Baju Sekolah = new Baju();
+    }
 }
