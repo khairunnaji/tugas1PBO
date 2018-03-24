@@ -18,5 +18,7 @@ public class BajuSekolah {
         Sekolah.Kancing="Bundar putih";
         Sekolah.motiv="Polos";
         Sekolah.ukuran="L";
+        
+        Sekolah.cetakInfo();
     }
 }
