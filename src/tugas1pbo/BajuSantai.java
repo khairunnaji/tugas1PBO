@@ -18,5 +18,7 @@ public class BajuSantai {
         Santai.Kancing="Bundar Biru tua";
         Santai.motiv="Kotak-Kotak";
         Santai.ukuran="M,L,XL";
-    }
+        
+        Santai.cetakInfo();
+        }
     }
