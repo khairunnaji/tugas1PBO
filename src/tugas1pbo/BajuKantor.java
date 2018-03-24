@@ -13,7 +13,13 @@ public class BajuKantor {
     public static void main(String[] args) {
         Baju Kantor = new Baju();
         
-      
+       Kantor.kain="fleece";
+        Kantor.Warna="Abu-abu";
+        Kantor.Kancing="Bundar Coklat";
+        Kantor.motiv="Polos";
+        Kantor.ukuran="XL";
+        
+        Kantor.cetakInfo();
     }
     
 }
