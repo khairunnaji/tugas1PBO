@@ -16,7 +16,7 @@ public class Baju {
     String motiv;
     String ukuran;
     
-    void cetakinfo(){
+    void cetakInfo(){
     System.out.println("Kain :"+kain);
     System.out.println("Warna :"+Warna);
     System.out.println("Kancing :"+Kancing);
@@ -24,4 +24,3 @@ public class Baju {
     System.out.println("Ukuran :"+ukuran);
     }
     }
-}
