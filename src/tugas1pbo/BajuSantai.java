@@ -12,4 +12,11 @@ package tugas1pbo;
 public class BajuSantai {
     public static void main(String[] args) {
         Baju Santai = new Baju();
-}
+        
+        Santai.kain="Wol";
+        Santai.Warna="Biru";
+        Santai.Kancing="Bundar Biru tua";
+        Santai.motiv="Kotak-Kotak";
+        Santai.ukuran="M,L,XL";
+    }
+    }
