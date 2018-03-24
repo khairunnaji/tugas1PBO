@@ -19,6 +19,7 @@ public class BajuKantor {
         Kantor.motiv="Polos";
         Kantor.ukuran="XL";
         
+        
         Kantor.cetakInfo();
     }
     
